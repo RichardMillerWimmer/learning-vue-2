@@ -1,0 +1,8 @@
+{
+    "jobs": [
+        { "title": "UX Designer", "id": 0, "details": "designs UX" },
+        { "title": "Web Developer", "id": 1, "details": "developes web apps" },
+        { "title": "Vue Developer", "id": 2, "details": "developes Vue apps" },
+        { "title": "React Developer", "id": 3, "details": "developes React apps" }
+    ]
+}
